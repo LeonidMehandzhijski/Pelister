@@ -1,0 +1,17 @@
+# Ignore binary files and built executables
+Binaries/
+
+# Ignore temporary and intermediate files
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# Ignore log and temporary files
+*.log
+*.tmp
+
+# Ignore user-specific settings (if any exist)
+*.user
+*.suo
+*.opensdf
+*.sdf
